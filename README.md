@@ -31,10 +31,7 @@ A real-time speech-to-text and translation tool that provides live multilingual 
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/conference-assistant.git
-cd conference-assistant
-```
+
 
 2. Create and activate virtual environment:
 ```bash
